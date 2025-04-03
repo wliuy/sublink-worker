@@ -3,7 +3,7 @@
   <h5><i>Serverless 自部署订阅转换工具最佳实践</i></h5>
   
   <a href="https://trendshift.io/repositories/12291" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12291" alt="7Sageer%2Fsublink-worker | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/12291" alt="wliuy%2Fsublink-worker | Trendshift" width="250" height="55"/>
   </a>
   
   <!-- <p>
